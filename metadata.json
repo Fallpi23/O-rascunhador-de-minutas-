@@ -1,0 +1,5 @@
+{
+  "name": "O Rascunhador de Minutas",
+  "description": "Uma ferramenta de geração de documentos jurídicos que vai além dos modelos prontos, utilizando IA para adaptar a linguagem e as cláusulas ao contexto específico do cliente e da legislação.",
+  "requestFramePermissions": []
+}
